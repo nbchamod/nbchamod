@@ -53,7 +53,7 @@
 - 🌟 Completed multiple academic and freelance **software development projects**
 - 🔬 Experience in **Quality Assurance** (Manual & Automation)
 - 🏦 Work experience at **People’s Bank – Matara** as a cashier (financial systems exposure)
-- 🎯 Committed to building efficient, scalable, and user-friendly solutions
+- 🎯 Committed to building efficient, scalable, and user-friendly solutions 
 
 ---
 
