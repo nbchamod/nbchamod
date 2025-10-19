@@ -1,9 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
 
 <h1 align="center">Hey 👋, I'm Chamod Lakshan</h1>
 <h3 align="center">💻 IT Undergraduate @ University of Moratuwa | Full-Stack Developer | IoT & QA Enthusiast</h3>
 
-<img align="right" alt="coding" width="450" height="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif"/>
+<img align="right" alt="coding" width="450" height="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ---
 
@@ -32,15 +32,22 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/chamod-lakshan-1a05972b4/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+</a>
+<a href="https://www.instagram.com/chamodlakshan_cshan/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
+</a>
+<a href="https://www.hackerrank.com/profile/lakshanchamod473" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="40" width="50" />
+</a>
+<a href="https://www.facebook.com/share/17NrueSJqn/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook" height="45" width="45" />
+</a>
+<a href="https://my-portfolio-nine-phi-23.vercel.app/" target="blank">
+  <img align="center" src="https://img.icons8.com/?size=100&id=VJz2Ob51dvZJ&format=png&color=000000" height="50" width="50" />
+</a>
+  
 </p>
 
 ---
