@@ -3,13 +3,15 @@
 <h1 align="center">Hey 👋, I'm Chamod Lakshan</h1>
 <h3 align="center">💻 IT Undergraduate @ University of Moratuwa | Full-Stack Developer | IoT & QA Enthusiast</h3>
 
-<img align="right" alt="coding" width="450" height="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ---
+
+<img align="right" alt="coding" width="450" height="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="margin-left: 30px;" />
+
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nbchamod&label=Profile%20views&color=0e75b6&style=flat" alt="nbchamod" /> 
-</p>
+</p> 
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -20,13 +22,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Undergraduate at University of Moratuwa**  
-- 🌱 Currently learning **MERN Stack**, **Ballerina**, and **Test Automation**  
-- 🔭 Working on:
-  - 🚌 [**BusPilot-v1**](https://github.com/nbchamod/BusPilot-v1) – Smart bus management system  
-  - 🔧 [**Garage Management System**](https://github.com/nbchamod/GarageManagementSystem) – Technician-side automation & communication  
-- 💡 Interested in **Web Development**, **IoT Systems**, and **Quality Assurance**  
-- 🤝 Open to collaborating on **Open Source** and **Internship** projects  
+- 🎓 Undergraduate at **University of Moratuwa**  
+- 🌱 Learning **Mobile Development**, **Spring-boot**, and **UI/UX**  
+- 💡 Interested in **Web Development**, **Software Engineering**, and **Quality Assurance**  
+- 🤝 Open to collaborating on **Open Source** and **Internships**
+
 
 ---
 
