@@ -99,28 +99,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nbchamod&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nbchamod&theme=radical" />
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=nbchamod&show_icons=true&theme=radical" />
+  <img width="48%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nbchamod&theme=radical" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbchamod&layout=compact&theme=radical" />
 </p>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
-### 🏆 Featured Projects
-| Project | Description | Stack |
-|----------|--------------|-------|
-| [🚗 Garage Management System](https://github.com/nbchamod/GarageManagementSystem) | Technician-side system for job management & communication | MERN, MUI, WhatsApp API |
-| [🚌 BusPilot-v1](https://github.com/nbchamod/BusPilot-v1) | Smart bus tracking & scheduling system | React, Node.js, MongoDB |
-| [💡 IoT LED Controller](https://github.com/nbchamod/LED-Controller) | WS2812B LED animation control | Arduino, FastLED |
-
----
-
-### ⚡ Fun Quote
-> “The best error message is the one that never shows up.” 😄
-
----
-
-⭐️ From [nbchamod](https://github.com/nbchamod)
