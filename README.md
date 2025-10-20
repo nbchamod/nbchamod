@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
 
 <h1 align="center">Hey 👋, I'm Chamod Lakshan</h1>
-<h3 align="center">💻 IT Undergraduate @ University of Moratuwa | Full-Stack Developer | IoT & QA Enthusiast</h3>
+<h3 align="center">💻 IT Undergraduate @ University of Moratuwa | Full-Stack Developing | Software Engineering | UI/UX Designing </h3>
 
 ---
 
@@ -131,7 +131,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbchamod&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbchamod&layout=compact&theme=radical&langs_count=10" />
 </p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
